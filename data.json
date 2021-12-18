@@ -1,0 +1,26 @@
+{
+    "cards":[{
+    "img":"o.jpg",
+    "name":"ONEPLUS",
+    "OS":"APPLE",
+    "RATE":"25,000",
+    "OFFER":"20,000",
+    "BUTTON":"view"
+},{
+    "img":"s.jpg",
+    "name":"SAMSUNG",
+    "OS":"ANDROID",
+    "RATE":"75,000",
+    "OFFER":"65,000",
+    "BUTTON":"view"
+
+},{
+    "img":"1.jpg",
+    "name":"IPHONE",
+    "OS":"ANDROID",
+    "RATE":"1,25,000",
+    "OFFER":"75,000",
+    "BUTTON":"view"
+}
+    ]
+}
